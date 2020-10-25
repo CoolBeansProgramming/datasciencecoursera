@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Paije Smith"
+author: "student"
 date: "10/25/2020"
 output: pdf_document
 ---
